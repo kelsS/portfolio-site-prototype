@@ -10,5 +10,6 @@ svg {
     margin-left: 25px;
     padding: 0;
     max-width: 9%;
+    min-width: 40%;
     position: fixed;
 }
