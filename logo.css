@@ -13,3 +13,13 @@ svg {
     min-width: 40%;
     position: fixed;
 }
+
+@mediascreen and (max-width: 767px) {
+  svg {
+    margin-top: -240px;
+    margin-left: 25px;
+    padding: 0;
+    min-width: 40%;
+    position: fixed;
+ }
+}
