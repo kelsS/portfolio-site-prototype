@@ -75,8 +75,8 @@ button.close {
 .btn-default:focus {
 	background: #000;
 	color: #fff;
-	border: #8c8c8c;
-	border-radius: 0px;
+	border: #8c8c8c!important;
+	border-radius: 0px!important;
 }
 
 
