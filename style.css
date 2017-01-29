@@ -397,7 +397,7 @@ a.menu-link:active {
 }
 
 @media screen and (min-width: 768px) {
-  .home-row, .work-row, .cs-row, .about-row {
+  .home-row {
     margin-top: 100px;
   }
 }
