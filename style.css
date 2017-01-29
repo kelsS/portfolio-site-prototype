@@ -62,11 +62,12 @@ button.close {
 	background: #000;
 	color: #fff;
 	border: #000;
+	border-radius: 0px;
 }
 
 .btn-default:hover {
 	background: #8c8c8c;
-	color: #fff;
+	color: #000;
 	border: #8c8c8c;
 }
 
