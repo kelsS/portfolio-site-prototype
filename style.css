@@ -65,15 +65,15 @@ button.close {
 }
 
 .btn-default:hover {
-	background: #000;
+	background: #8c8c8c;
 	color: #fff;
-	border: #000;
+	border: #8c8c8c;
 }
 
 .btn-default:focus {
 	background: #000;
 	color: #fff;
-	border: #000;
+	border: #8c8c8c;
 }
 
 
