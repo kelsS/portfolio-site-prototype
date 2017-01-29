@@ -1,0 +1,45 @@
+/* ABOUT PAGE */
+body#about {
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Economica', sans-serif;
+	color: #fff;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
+.about-bg {
+	position: absolute;
+	margin: 0 auto;
+}
+
+.about-row {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.about-page {
+}
+
+
+.about-title {
+	padding: 5px;
+	text-align: center;
+}
+
+
+/* about me*/
+#me {
+	/*background: url(../img/me.jpg) no-repeat center center scroll;
+	background-size: contain;*/
+}
+
+#bio {
+	
+}
