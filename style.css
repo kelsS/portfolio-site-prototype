@@ -331,7 +331,7 @@ a.menu-link:active {
 
 	/* CASE STUDIES DIV */
 	.case-studies {
-		background: url(../img/case_studies_bg.png) no-repeat center center scroll;
+		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485717823/case_studies_bg_fbkmjx.png) no-repeat center center scroll;
 		opacity: 0.68;
 		filter: alpha(opacity=68); /* For IE8 and earlier */
 		max-width: 100%;
@@ -362,15 +362,15 @@ a.menu-link:active {
 	}
 
 	.about {
-		background: url(../img/about_bg.png) no-repeat center center scroll;
+		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485721296/about_bg_fwvdtd.png) no-repeat center center scroll;
 	}
 
 	.work {
-		background: url(../img/work_bg.png) no-repeat center center scroll;
+		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485717873/work_bg_gfsxf7.png) no-repeat center center scroll;
 	}
 
 	.connect {
-		background: url(../img/connect_bg.png) no-repeat center center scroll;
+		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485717828/connect_bg_e7a93x.png) no-repeat center center scroll;
 	}
 
 	.about, .work, .connect {
@@ -394,7 +394,7 @@ a.menu-link:active {
 }
 
 #footer-section {
-	background: url(../img/static.gif) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485721379/static_ajfkh3.gif) no-repeat center center scroll;
 	background-size: cover;
 	-webkit-filter: brightness(60%); /* Safari 6.0 - 9.0 */
     filter: brightness(60%);
@@ -426,7 +426,7 @@ body#work {
 
 
 .work-title {
-	background: url(../img/work_bg.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485717873/work_bg_gfsxf7.png) no-repeat center center scroll;
 	background-size: cover;
 
 
@@ -460,37 +460,37 @@ body#work {
 
 /* PORTFOLIO ITEMS */
 #item1 {
-	background: url(../img/bdd-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485229326/Blue-Dozen-Design-Home-600_srac8e.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
 #item2 {
-	background: url(../img/fc-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485226253/point_global_logistics-home-600_zmfb0b.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
 #item3 {
-	background: url(../img/fhhs-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485226255/ultra-coffeebar-home-600_gcy6rh.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
 #item4 {
-	background: url(../img/lr-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485226252/Home-Occult-Lab-600_gvyxsw.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
 #item5 {
-	background: url(../img/da-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485229637/asheville_vapor-home-600_pwiuqh.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
 #item6 {
-	background: url(../img/pgl-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485229637/asheville_vapor-home-600_pwiuqh.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
 #item7 {
-	background: url(../img/uc-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485717845/fc-home_rddynk.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
