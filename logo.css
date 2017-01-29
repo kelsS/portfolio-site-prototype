@@ -5,7 +5,8 @@
 }
 
 svg {
-    margin-top: -230px;
+    margin-top: -240px;
+    margin-left: 25px;
     padding: 0;
     max-width: 5%;
     position: fixed;
