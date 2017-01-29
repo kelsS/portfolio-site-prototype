@@ -9,7 +9,7 @@ svg {
     margin-top: -240px;
     margin-left: 25px;
     padding: 0;
-    max-width: 12%;
+    width: 12%;
     position: fixed;
 }
 
@@ -18,7 +18,7 @@ svg {
     margin-top: -240px;
     margin-left: 25px;
     padding: 0;
-    max-width: 12%;
+    width: 12%;
     position: fixed;
  }
 }
