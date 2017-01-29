@@ -1,0 +1,65 @@
+/* CASE-STUDIES PAGE */
+
+body#case-studies {
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Economica', sans-serif;
+	color: #fff;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
+
+.cs-title {
+	background: url(../img/case_studies_bg.png) no-repeat center center scroll;
+	background-size: cover;
+
+
+}
+
+.cs-bg {
+	position: relative;
+	margin: 0 auto;
+	padding: 100px;
+}
+
+.cs-row {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.case-study {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    opacity: 0.7;
+    border: 7px solid #636363;
+    
+}
+
+.case-study:hover {
+	opacity: 1;
+	border: 7px solid #636363;
+}
+
+
+/* CASE-STUDY ITEMS */
+#cs-item1 {
+	background: url(../img/bdd-home.png) no-repeat center center scroll;
+	background-size: cover;
+}
+
+#cs-item2 {
+	background: url(../img/fc-home.png) no-repeat center center scroll;
+	background-size: cover;
+}
+
+#cs-item3 {
+	background: url(../img/fhhs-home.png) no-repeat center center scroll;
+	background-size: cover;
+}
