@@ -193,7 +193,7 @@ a.menu-link:active {
 }
 .modal-fullscreen .modal-content {
   background: #000;
-  border: 1;
+  border: 1px;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
