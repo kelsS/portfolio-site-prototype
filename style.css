@@ -155,7 +155,7 @@ a.menu-link:active {
 
 @media (min-width: 768px) { 
 	#menu {
-	  	padding: 20% 20% 20% 20%;
+	    padding: 20% 20% 20% 20%;
 	    font-size: 1.8em;
 	}	
 
@@ -205,7 +205,7 @@ a.menu-link:active {
   filter: alpha(opacity=97);
 }
 
-/* .modal-fullscreen size: we use Bootstrap media query breakpoints */
+/* .modal-fullscreen size: using Bootstrap media query breakpoints */
 
 .modal-fullscreen .modal-dialog {
   margin: 0;
