@@ -396,6 +396,12 @@ a.menu-link:active {
 	padding-bottom: 95px;
 }
 
+@media screen and (max-width: 767px) {
+  .home-row, .work-row, .cs-row, .about-row {
+    margin-top: 100px;
+  }
+}
+
 #footer-section {
 	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485721379/static_ajfkh3.gif) no-repeat center center scroll;
 	background-size: cover;
