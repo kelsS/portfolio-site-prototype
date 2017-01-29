@@ -9,17 +9,16 @@ svg {
     margin-top: -240px;
     margin-left: 25px;
     padding: 0;
-    max-width: 9%;
     min-width: 40%;
     position: fixed;
 }
 
-@mediascreen and (max-width: 767px) {
+@mediascreen and (min-width: 767px) {
   svg {
     margin-top: -240px;
     margin-left: 25px;
     padding: 0;
-    min-width: 40%;
+    max-width: 9%;
     position: fixed;
  }
 }
