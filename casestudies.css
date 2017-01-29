@@ -17,7 +17,7 @@ p {
 
 
 .cs-title {
-	background: url(../img/case_studies_bg.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485717823/case_studies_bg_fbkmjx.png) no-repeat center center scroll;
 	background-size: cover;
 
 
@@ -50,16 +50,16 @@ p {
 
 /* CASE-STUDY ITEMS */
 #cs-item1 {
-	background: url(../img/bdd-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485226252/Home-Occult-Lab-600_gvyxsw.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
 #cs-item2 {
-	background: url(../img/fc-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485226252/Home-Rather-Kelsey-600_uw04ij.png) no-repeat center center scroll;
 	background-size: cover;
 }
 
 #cs-item3 {
-	background: url(../img/fhhs-home.png) no-repeat center center scroll;
+	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485226255/ultra-coffeebar-home-600_gcy6rh.png) no-repeat center center scroll;
 	background-size: cover;
 }
