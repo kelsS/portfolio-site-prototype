@@ -69,12 +69,14 @@ button.close {
 	background: #8c8c8c;
 	color: #000;
 	border: #8c8c8c;
+	border-radius: 0px;
 }
 
 .btn-default:focus {
 	background: #000;
 	color: #fff;
 	border: #8c8c8c;
+	border-radius: 0px;
 }
 
 
