@@ -112,7 +112,7 @@ button.close {
 
 
 #menu {
-  	padding: 25% 20% 25% 20%;
+    padding: 25% 20% 25% 20%;
     text-align: center;
     font-size: 1.8em;
     text-transform: uppercase;
@@ -120,7 +120,7 @@ button.close {
 }
 
 #menu li {
-	padding: 5%;
+    padding: 3.5%;
 }
 
 /* unvisited link */
