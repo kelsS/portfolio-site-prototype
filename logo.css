@@ -1,0 +1,12 @@
+#svg-logo {
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+svg {
+    margin-top: -230px;
+    padding: 0;
+    max-width: 15%;
+    position: fixed;
+}
