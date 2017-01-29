@@ -396,7 +396,7 @@ a.menu-link:active {
 	padding-bottom: 95px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 768px) {
   .home-row, .work-row, .cs-row, .about-row {
     margin-top: 100px;
   }
