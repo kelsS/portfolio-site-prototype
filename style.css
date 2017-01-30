@@ -410,19 +410,14 @@ a.menu-link:active {
 }
 
 .copyright {
-	margin-top: 25px;
-}
-
-.info {
-	position: relative;
-	margin-top: 25px;
+	margin-top: 35px;
 	text-align: center;
 }
 
+
 .social {
 	margin-top: 25px;
-	float: right;
-	text-align: right;
+	text-align: center;
 }
 
 
