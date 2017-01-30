@@ -52,6 +52,13 @@ p {
     background: rgba(140,140,140,0.5); 
 }
 
+#about-text {
+   text-transform: uppercase;
+}
+
+
+
+
 #bio {
 	
 }
