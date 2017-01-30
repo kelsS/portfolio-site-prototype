@@ -22,6 +22,7 @@
 
 @media (min-width: 1200px) { 
 	#rotator {
+	visibility: visible;
 	margin-top: 5%;
 	padding-left: 20px;
 	}
