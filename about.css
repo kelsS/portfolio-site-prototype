@@ -38,7 +38,7 @@ p {
 }
 
 #me-img {
-   padding: 0px 0px 10px 0px;
+       padding: 50px 0px 10px 0px;
        margin: 0 auto!important;
 }
 
@@ -49,7 +49,7 @@ p {
 }
 
 #about-section {
-    background: rgba(140,140,140,0.9); 
+       background: rgba(140,140,140,0.9) 
 }
 
 #about-text {
