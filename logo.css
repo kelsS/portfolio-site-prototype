@@ -27,8 +27,8 @@ svg {
 
 @media screen and (max-width: 768px) {
   svg {
-    margin-top: -240px;
-    margin-left: 38px;
-    width: 15%;
+    margin-top: -275px;
+    margin-left: 4px;
+    width: 110px;
  }
 }
