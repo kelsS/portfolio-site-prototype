@@ -358,6 +358,7 @@ a.menu-link:active {
 	/* CASE STUDIES DIV */
 	.case-studies {
 		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485758543/case_studies_bg_bdb7u9.png) no-repeat center center scroll;
+		background-size: cover;
 		opacity: 0.68;
 		filter: alpha(opacity=68); /* For IE8 and earlier */
 		max-width: 100%;
@@ -389,14 +390,17 @@ a.menu-link:active {
 
 	.about {
 		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485721296/about_bg_fwvdtd.png) no-repeat center center scroll;
+		background-size: cover;
 	}
 
 	.work {
 		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485717873/work_bg_gfsxf7.png) no-repeat center center scroll;
+		background-size: cover;
 	}
 
 	.connect {
 		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485717828/connect_bg_e7a93x.png) no-repeat center center scroll;
+		background-size: cover;
 	}
 
 	.about, .work, .connect {
