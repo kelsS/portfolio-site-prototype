@@ -429,7 +429,7 @@ a.menu-link:active {
 .copyright {
 	margin-top: 60px;
 	text-align: center;
-	position: fixed;
+	position: absolute;
 	z-index: 1;
 }
 
@@ -438,7 +438,7 @@ a.menu-link:active {
 	margin-top: -65px;
 	text-align: center;
 	padding: 0;
-	position: fixed;
+	position: absolute;
 	z-index: 1;
 }
 
