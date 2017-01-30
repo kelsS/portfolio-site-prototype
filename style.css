@@ -41,7 +41,6 @@ p {
 	position: absolute;
 	float: left;
 	margin: 32px 10px 10px 34px;
-	background: #000;
 }
 
 button.close {
@@ -73,7 +72,7 @@ button.close {
 }
 
 .btn-default:focus {
-	background: #000;
+	background: rgba(0,0,0,0.1);
 	color: #fff;
 	border: #8c8c8c!important;
 	border-radius: 0px!important;
@@ -90,7 +89,7 @@ button.close {
 	.menu-button {
 		position: absolute;
 		float: left;
-		margin: 4% 4% 3% 4%;
+		margin: 32px 10px 10px 34px;
 	}
 		
 }
@@ -99,7 +98,7 @@ button.close {
 	.menu-button {
 		position: absolute;
 		float: left;
-	        margin: 3% 4% 3% 4%;
+	        margin: 32px 10px 10px 34px;
 	}
 
 }
@@ -108,7 +107,7 @@ button.close {
 	.menu-button {
 		position: absolute;
 		float: left;
-		margin: 2% 4% 3% 4%;
+		margin: 32px 10px 10px 34px;
 	}
 
 }
