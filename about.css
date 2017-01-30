@@ -44,6 +44,12 @@ p {
    padding: 0px 0px 10px 0px;
 }
 
+@media screen and (max-width: 480) {
+	#me {
+	margin-top: 50px;
+}
+}
+
 #bio {
 	
 }
