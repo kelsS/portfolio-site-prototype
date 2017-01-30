@@ -365,6 +365,7 @@ a.menu-link:active {
 
 	.case-studies:hover {
 		background: rgba(255,255,255,0.2);
+		opacity: 0.5;
 	}
 
 	@media (min-width: 1200px) {
