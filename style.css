@@ -409,6 +409,10 @@ a.menu-link:active {
 	#work-page {
            margin-top: -15px;
 	}
+       
+       #work-page:hover {
+          
+       }
 
      @media screen and (max-width: 992px) {
 	     .about, .work, .connect {
@@ -444,8 +448,8 @@ h1.cs-home-link, h1.about-home-link, h1.work-home-link, h1.connect-home-link {
 #footer-section {
 	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485721379/static_ajfkh3.gif) no-repeat center center scroll;
 	background-size: cover;
-	-webkit-filter: brightness(60%); /* Safari 6.0 - 9.0 */
-    filter: brightness(60%);
+	-webkit-filter: brightness(75%); /* Safari 6.0 - 9.0 */
+    filter: brightness(75%);
 	height: 10%;
 }
 
