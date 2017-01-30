@@ -59,7 +59,7 @@ button.close {
 }
 
 .btn-default {
-	background: #000;
+	background: rgba(0,0,0,0.1);
 	color: #fff;
 	border: #000;
 	border-radius: 0px;
