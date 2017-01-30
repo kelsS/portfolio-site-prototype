@@ -414,6 +414,8 @@ a.menu-link:active {
 .cs-home-link, .about-home-link, .work-home-link, .connect-home-link {
 	text-align: center;
 	padding: 50px;
+	position: relative;
+        z-index: 2;
 }
 
 /**END MAIN CONTENT**/
