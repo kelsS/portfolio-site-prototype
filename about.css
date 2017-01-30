@@ -65,3 +65,7 @@ p {
 #motto {
   text-align: center;
 }
+
+.connect-link {
+  font-weight: bold;
+}
