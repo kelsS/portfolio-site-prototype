@@ -360,7 +360,7 @@ a.menu-link:active {
 		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485758543/case_studies_bg_bdb7u9.png) no-repeat center center scroll;
 		background-size: cover;
 		max-width: 100%;
-	        margin-top: 30px;
+	        margin-top: -15px;
 	}
 
 	.case-studies:hover {
