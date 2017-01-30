@@ -429,8 +429,6 @@ a.menu-link:active {
 .copyright {
 	margin-top: 60px;
 	text-align: center;
-	position: absolute;
-	z-index: 1;
 }
 
 
@@ -438,8 +436,6 @@ a.menu-link:active {
 	margin-top: -65px;
 	text-align: center;
 	padding: 0;
-	position: absolute;
-	z-index: 1;
 }
 
 .social-icon {
@@ -449,6 +445,11 @@ a.menu-link:active {
 .social > li {
 	display: inline-block;
 }
+
+.fa-instagram, .fa-linkedin, .fa-github:hover {
+	color: #8c8c8c!important;
+}
+
 
 
 /* WORK PAGE */
