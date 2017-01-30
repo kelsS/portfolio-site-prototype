@@ -416,6 +416,7 @@ a.menu-link:active {
 	padding: 50px;
 	position: relative;
         z-index: 2;
+	opacity: 1!important;
 }
 
 /**END MAIN CONTENT**/
