@@ -296,7 +296,8 @@ a.menu-link:active {
 }
 
 .navbar-new {
-    background-color: #000;
+    background: url(https://res.cloudinary.com/ksassets/image/upload/v1485721379/static_ajfkh3.gif) no-repeat center center scroll;
+    background-size: cover;
     border-color: #fff;
 }
 
