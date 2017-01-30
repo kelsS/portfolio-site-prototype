@@ -2,13 +2,16 @@ body {
 	background: #000;
 	overflow-x: hidden;
 	padding-top: 105px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	color: #fff;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Economica', sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	color: #fff;
 }
 
@@ -17,7 +20,7 @@ h1 {
 }
 
 p {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	color: #fff;
 }
 
