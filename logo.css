@@ -6,10 +6,10 @@
 }
 
 svg {
-    margin-top: -240px;
-    margin-left: 25px;
+    margin-top: -275px;
+    margin-left: 4px;
+    width: 110px;
     padding: 0;
-    width: 9%;
     position: fixed;
 }
 
@@ -19,9 +19,9 @@ svg {
 
 @media screen and (min-width: 1200px) {
   svg {
-    margin-top: -240px;
-    margin-left: 25px;
-    width: 9%;
+    margin-top: -275px;
+    margin-left: 4px;
+    width: 110px;
  }
 }
 
