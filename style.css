@@ -446,8 +446,12 @@ a.menu-link:active {
 	display: inline-block;
 }
 
-.fa-instagram, .fa-linkedin, .fa-github:hover {
+.fa-instagram, .fa-linkedin, .fa-github {
 	color: #8c8c8c!important;
+}
+
+.fa-instagram:hover, .fa-linkedin:hover, .fa-github:hover {
+	color: #fff!important;
 }
 
 
