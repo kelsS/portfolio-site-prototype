@@ -406,7 +406,7 @@ a.menu-link:active {
 	        margin-top: 30px;
 	}
 
-     @media screen and (max-width: 768px) {
+     @media screen and (min-width: 768px) {
 	     .about, .work, .connect {
 		    max-width: 100%;
 		    margin-top: -15px;
