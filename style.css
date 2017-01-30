@@ -17,6 +17,23 @@ p {
 	color: #fff;
 }
 
+ul li {
+	list-style: none;
+}
+
+a {
+	color: #222;
+}
+
+a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #fff;
+	text-decoration: none;
+}
 
 /* NAV SECTION */
 
