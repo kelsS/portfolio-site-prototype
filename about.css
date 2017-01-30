@@ -42,6 +42,7 @@ p {
 
 #me-img {
    padding: 0px 0px 10px 0px;
+       margin: 0 auto!important;
 }
 
 @media screen and (max-width: 480px) {
