@@ -23,11 +23,11 @@
 @media (min-width: 1200px) { 
 	#rotator {
 	visibility: visible;
-	margin-top: -5px;
+	margin-top: 4px;
 	padding-left: 20px;
 	}
 
 	#rotator h1 {
-	font-size: 5em;
+	font-size: 3.8em;
 	}
  }
