@@ -449,8 +449,8 @@ h1.cs-home-link, h1.about-home-link, h1.work-home-link, h1.connect-home-link {
 #footer-section {
 	background: url(https://res.cloudinary.com/ksassets/image/upload/v1485721379/static_ajfkh3.gif) no-repeat center center scroll;
 	background-size: cover;
-	-webkit-filter: brightness(75%); /* Safari 6.0 - 9.0 */
-    filter: brightness(75%);
+	-webkit-filter: brightness(85%); /* Safari 6.0 - 9.0 */
+    filter: brightness(85%);
 	height: 10%;
 }
 
