@@ -7,7 +7,7 @@
 
 svg {
     margin-top: -275px;
-    margin-left: 4px;
+    margin-left: 19px;
     width: 110px;
     padding: 0;
     position: fixed;
@@ -24,7 +24,7 @@ svg {
 @media screen and (max-width: 768px) {
   svg {
     margin-top: -275px;
-    margin-left: 4px;
+    margin-left: 19px;
     width: 110px;
  }
 }
