@@ -13,6 +13,10 @@ svg {
     position: fixed;
 }
 
+.logo-button {
+  background: red;
+}
+
 @media screen and (min-width: 1200px) {
   svg {
     margin-top: -240px;
