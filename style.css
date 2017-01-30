@@ -366,7 +366,7 @@ a.menu-link:active {
 	}
 
 	.case-studies:hover {
-		background: rgba(255,255,255,0.8);
+		background: rgba(0,0,0,0.8);
 
 	}
 
@@ -425,7 +425,7 @@ a.menu-link:active {
 }
 
 	.about:hover, .work:hover, .connect:hover {
-		background: rgba(255,255,255,0.8);
+		background: rgba(0,0,0,0.8);
 	}
 
 h1.cs-home-link, h1.about-home-link, h1.work-home-link, h1.connect-home-link {
