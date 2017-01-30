@@ -68,4 +68,5 @@ p {
 
 .connect-link {
   font-weight: bold;
+  text-transform: uppercase;
 }
