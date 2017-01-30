@@ -9,14 +9,14 @@ svg {
     margin-top: -240px;
     margin-left: 25px;
     padding: 0;
-    width: 12%;
+    width: 9%;
     position: fixed;
 }
 
 @media screen and (min-width: 1200px) {
   svg {
     margin-top: -240px;
-    margin-left: 30px;
+    margin-left: 25px;
     padding: 0;
     width: 9%;
     position: fixed;
