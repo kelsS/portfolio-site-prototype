@@ -32,7 +32,7 @@ p {
 	position: absolute;
 	z-index: -2;
 	top: 0;
-    left: 0;
+        left: 0;
 }
 
 /* MODAL MENU */
@@ -40,12 +40,12 @@ p {
 .menu-button {
 	position: absolute;
 	float: left;
-	margin: 65px 88px 65px 88px;
+	margin: 5%;
 	background: #000;
 }
 
 button.close {
-	float: right;
+    float: right;
     position: relative;
     margin: 0 auto;
     font-size: 50px;
