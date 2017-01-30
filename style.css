@@ -1,7 +1,7 @@
 body {
 	background: #000;
 	overflow-x: hidden;
-	padding-top: 175px;
+	padding-top: 105px;
 	font-family: 'Open Sans', sans-serif;
 	color: #fff;
 }
@@ -90,7 +90,7 @@ button.close {
 	.menu-button {
 		position: absolute;
 		float: left;
-		margin: 4%;
+		margin: 5%;
 	}
 		
 }
@@ -108,7 +108,7 @@ button.close {
 	.menu-button {
 		position: absolute;
 		float: left;
-		margin: 2%;
+		margin: 5%;
 	}
 
 }
