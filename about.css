@@ -31,13 +31,13 @@ p {
 .about-title {
 	padding: 5px;
 	text-align: center;
+	margin-top: 150px;
 }
 
 
 /* about me*/
 #me {
-	/*background: url(../img/me.jpg) no-repeat center center scroll;
-	background-size: contain;*/
+	margin-top: 150px;
 }
 
 #bio {
