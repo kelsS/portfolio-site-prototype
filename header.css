@@ -8,7 +8,7 @@
 	#rotator {
 	visibility: visible;
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 10px;
 	padding-left: 20px;
 	position: fixed;
         z-index: -1;
@@ -23,7 +23,7 @@
 @media (min-width: 1200px) { 
 	#rotator {
 	visibility: visible;
-	margin-top: 20px;
+	margin-top: -5px;
 	padding-left: 20px;
 	}
 
