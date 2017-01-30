@@ -406,6 +406,14 @@ a.menu-link:active {
 	        margin-top: 30px;
 	}
 
+     @media screen and (max-width: 768px) {
+	     .about, .work, .connect {
+		    max-width: 100%;
+		    margin-top: -15px;
+        }
+	     
+}
+
 	.about:hover, .work:hover, .connect:hover {
 		background: rgba(255,255,255,0.2);
 	}
