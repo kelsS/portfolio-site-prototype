@@ -366,7 +366,7 @@ a.menu-link:active {
 	}
 
 	.case-studies:hover {
-		background: rgba(255,255,255,0.2);
+		background: rgba(255,255,255,0.8);
 
 	}
 
@@ -425,7 +425,7 @@ a.menu-link:active {
 }
 
 	.about:hover, .work:hover, .connect:hover {
-		background: rgba(255,255,255,0.2);
+		background: rgba(255,255,255,0.8);
 	}
 
 h1.cs-home-link, h1.about-home-link, h1.work-home-link, h1.connect-home-link {
@@ -452,7 +452,7 @@ h1.cs-home-link, h1.about-home-link, h1.work-home-link, h1.connect-home-link {
 	background-size: cover;
 	-webkit-filter: brightness(85%); /* Safari 6.0 - 9.0 */
     filter: brightness(85%);
-	height: 10%;
+	height: 50px;
 }
 
 .copyright {
