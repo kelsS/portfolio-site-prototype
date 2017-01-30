@@ -439,7 +439,7 @@ a.menu-link:active {
 }
 
 .social-icon {
-	font-size: 2em;
+	font-size: 2em!important;
 }
 
 .social > li {
