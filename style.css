@@ -427,13 +427,13 @@ a.menu-link:active {
 }
 
 .copyright {
-	margin-top: 35px;
+	margin-top: 60px;
 	text-align: center;
 }
 
 
 .social {
-	margin-top: 25px;
+	margin-top: -65px;
 	text-align: center;
 	padding: 0;
 }
