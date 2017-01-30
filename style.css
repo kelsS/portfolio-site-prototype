@@ -359,15 +359,13 @@ a.menu-link:active {
 	.case-studies {
 		background: url(https://res.cloudinary.com/ksassets/image/upload/v1485758543/case_studies_bg_bdb7u9.png) no-repeat center center scroll;
 		background-size: cover;
-		opacity: 0.68;
-		filter: alpha(opacity=68); /* For IE8 and earlier */
 		max-width: 100%;
-	    margin-top: 30px;
+	        margin-top: 30px;
 	}
 
 	.case-studies:hover {
-		opacity: 1;
-		filter: alpha(opacity=100); /* For IE8 and earlier */
+		color: #8c8c8c;
+		background: rgba(255,255,255,0.5);
 	}
 
 	@media (min-width: 1200px) {
